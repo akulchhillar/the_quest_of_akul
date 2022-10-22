@@ -16,7 +16,7 @@ Piotroski had identified 9 distinct elements for his analysis to identify financ
 8. Change in margin
 9. Change in asset turnover
 
-![How to use the variables to generate an F score for a company](https://github.com/akulchhillar/the_quest_of_akul/blob/main/assests/Untitled_2.png)
+![How to use the variables to generate an F score for a company](https://raw.githubusercontent.com/akulchhillar/the_quest_of_akul/main/assests/Untitled_2.png)
 
 How to use the variables to generate an F score for a company
 
