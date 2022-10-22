@@ -16,11 +16,11 @@ Piotroski had identified 9 distinct elements for his analysis to identify financ
 8. Change in margin
 9. Change in asset turnover
 
-![How to use the variables to generate an F score for a company](Does%20It%20Work%20Piotroski's%20F%20Score%20in%20Indian%20Equity%20%20195f79624b4d49f7b8a0b6558b8af6f1/Untitled.png)
+![How to use the variables to generate an F score for a company]([Does%20It%20Work%20Piotroski's%20F%20Score%20in%20Indian%20Equity%20%20195f79624b4d49f7b8a0b6558b8af6f1/Untitled.png](https://github.com/akulchhillar/the_quest_of_akul/blob/main/assests/Untitled_2.png))
 
 How to use the variables to generate an F score for a company
 
-![Formula to calculate F score](Does%20It%20Work%20Piotroski's%20F%20Score%20in%20Indian%20Equity%20%20195f79624b4d49f7b8a0b6558b8af6f1/Untitled%201.png)
+![Formula to calculate F score]([Does%20It%20Work%20Piotroski's%20F%20Score%20in%20Indian%20Equity%20%20195f79624b4d49f7b8a0b6558b8af6f1/Untitled%201.png](https://github.com/akulchhillar/the_quest_of_akul/blob/main/assests/Untitled%201_2.png))
 
 Formula to calculate F score
 
