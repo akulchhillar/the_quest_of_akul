@@ -1,6 +1,6 @@
 # Why I started this blog ?
 
-Well, franly speaking, **_I don't know_**.
+Well, frankly speaking, **_I don't know_**.
 
 I mean, I started writing blogs, or at least I tried writing blogs a couple of times in the past as well. However, every time I started writing eventually I would lose all the motivation and then stop writing more of those.
 
