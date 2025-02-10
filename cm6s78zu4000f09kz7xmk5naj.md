@@ -6,7 +6,6 @@ slug: the-ultimatum-game
 
 ---
 
-
 So let's put you in a hypothetical situation. Let's say you have won a million rupee lottery. But there is a catch. And the catch is that you have to share this lottery with a random stranger who you have never met and will probably never meet in the future. The amount of salary which you want to share with the other person depends upon you. You can either offer him ₹ 1,000 or the entire amount (lol). However, if the other person rejects your offer then nobody gets anything. So you have to make sure that you decide upon an amount which is accepted by the other person as well.
 
 Right now, what would you be thinking? Your evolutionary skills would have kicked in now and your brain would be analyzing millions of different variables just to decide on the amount. Set the amount too low and you risk losing the entire amount and if you set your amount too high then chances are you would regret sharing a larger chunk with the other person.
@@ -20,5 +19,3 @@ However, if we were to make a few changes in the situation where the person maki
 Now you might be thinking about how we use this piece of information in real life. Well, such situations do come up in our real life now and then. You decide when to ask for a raise, make a move in the bar, or get up on stage and sing, it depends upon your perceived status within the group. If it is low then you would not further risk damage. And if it's high you would ask for better treatment.
 
 The simple idea of revenge in the future is one way humans ensure fairness. Your perceived status is part of the equation when you are accepting or making a decision.
-
-[https://akulchhillar.github.io/NotionWidgets/](https://akulchhillar.github.io/NotionWidgets/)
