@@ -10,27 +10,26 @@ tags: productivity, workflow, automation, notion
 
 ---
 
-I might be late to the party, I was randomly going through the [documentaion](https://developers.notion.com/reference/webhooks) of Notion and noticed that they have officially realsed their webhooks in March 2025.
+I might be late to the party, I was randomly going through the [documentation](https://developers.notion.com/reference/webhooks) of Notion and noticed that they have officially realised their webhooks in March 2025.
 
 I think this is truly a game changer because now one can get updates in real time of all the changes taking place in any element. Especially, as an indie developer, this opens up a lot of opportunities to build solutions around this.
 
-I can already think of so many usecases for my personal projects which can also be extend to other ideas. For example, I run a part of my [personal website](https://www.akulchhillar.com/) using Notion as a database and now I can update the site in real time whenever a change takes place in the database.
+I can already think of so many use case for my personal projects which can also be extended to other ideas. For example, I run a part of my [personal website](https://www.akulchhillar.com/) using Notion as a database and now I can update the site in real time whenever a change takes place in the database.
 
 A few other ideas could be
 
-* Creating a Slack/Teams notification
-    
-* Building a CRM platform (there are already a lot of SAAS business around this)
-    
-* Managing tickets by customers in conjucton with something like Fresh desk
-    
+Creating a Slack/Teams notification
 
-Although there was something similar previously at Notion, where in users can create automated workflows and map them to buttons, however the limitation was that those automations were limited to Notion.
+Building a CRM platform (there are already a lot of SAAS businesses around this)
+
+Managing tickets by customers in conjunction with something like Fresh desk
+
+Although there was something similar previously at Notion, where users can create automated workflows and map them to buttons, however the limitation was that those automations were limited to Notion.
 
 But this time around, one can use these webhook events to interact with other 3rd party services and workflows.
 
 Though the documentation states the following which I believe is a bit vague as normally the events are emitted in real time.
 
-[<mark>Within a minute, Notion sends a webhook request to your configured endpoint.</mark>](https://developers.notion.com/reference/webhooks)
+Within a minute, Notion sends a webhook request to your configured endpoint.
 
-In conclusion all I can say is that it's going to interesting to see how users integreate this in their automation workflows.
+In conclusion all I can say is that it's going to be interesting to see how users integrate this in their automation workflows.
