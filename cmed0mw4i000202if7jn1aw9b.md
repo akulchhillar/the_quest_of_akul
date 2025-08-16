@@ -9,6 +9,8 @@ tags: productivity, automation, notion
 
 ---
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1755310544613/db0a3f56-417b-4dc3-a9a2-1b1b6e42a732.jpeg align="center")
+
 I might be late to the party, I was randomly going through the [documentation](https://developers.notion.com/reference/webhooks) of Notion and noticed that they have officially realised their webhooks in March 2025.
 
 I think this is truly a game changer because now one can get updates in real time of all the changes taking place in any element. Especially, as an indie developer, this opens up a lot of opportunities to build solutions around this.
