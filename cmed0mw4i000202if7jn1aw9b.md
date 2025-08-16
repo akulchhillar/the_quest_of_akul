@@ -6,7 +6,7 @@ datePublished: Fri Aug 15 2025 16:01:31 GMT+0000 (Coordinated Universal Time)
 cuid: cmed0mw4i000202if7jn1aw9b
 slug: notion-webhooks
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1755273544094/4b0a841c-f6a4-4654-9045-3eaf05c40e78.jpeg
-tags: productivity, workflow, automation, notion
+tags: productivity, automation, notion
 
 ---
 
